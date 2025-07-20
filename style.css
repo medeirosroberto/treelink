@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Inter, sans-serif;
+}
+body {
+  background: url(/assests/bg.png);
+}
+
+.perfil {
+  
+}
+img {
+  display: ;
+}
+
+.foto {
+  display: flex;
+  justify-content: center;
+}
+
+h1, h3, p, span {
+  color: white;
+  text-align: center;
+}
+h1 {
+  padding-top: 50px;
+}
+h3 {
+  padding: 14px;
+}
+li {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items:;
+}
+.cta {
+  padding-top: 20px;
+  
+}
+footer {
+  text-align: center;
+  padding-top: 20px;
+}
