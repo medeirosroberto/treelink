@@ -4,16 +4,16 @@
   font-family: Inter, sans-serif;
 }
 body {
-  background: url(/assests/bg2.png) no-repeat center fixed;
+  background: url(/assests/bg.png) no-repeat center fixed;
   background-size: cover;
 }
 
-.foto {
+.photo {
   display: flex;
   justify-content: center;
   margin-top: 140px;
 }
-.foto > img {
+.photo > img {
   height: 200px;
   border-radius: 50px 50px;
 }
